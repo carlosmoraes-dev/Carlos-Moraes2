@@ -5,16 +5,15 @@
     <a
     target="_blank"
     style="text-decoration: none"
-    href="https://github.com/Carlos-Moraes2?tab=repositories"
+    href="https://github.com/carlosmoraes-dev?tab=repositories"
     >Acesse meus repositórios</a>
   </h2>
 </div>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Moraes2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosmoraes-dev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Carlos-Moraes2&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlosmoraes-dev&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ## :bookmark_tabs: Hard Skill's
 
 
